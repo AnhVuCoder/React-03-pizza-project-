@@ -39,7 +39,7 @@ const pizzaData = [
   },
   {
     name: "Pizza Prosciutto",
-    ingredients: "Tomato, mozarella, ham, aragula, and burrata cheese",
+    ingredients: "Tomato, mozarella, ham, aragula, and burrata cheeses",
     price: 18,
     photoName: "pizzas/prosciutto.jpg",
     soldOut: false,
